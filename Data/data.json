@@ -1,0 +1,2282 @@
+[
+  {
+    "timestamp": "2025-04-05 11:52:57",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:52:59",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:01",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:03",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:06",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:08",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:10",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "31.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:12",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:14",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:16",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:19",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "33.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:21",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "33.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:23",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "33.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:25",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "33.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:27",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "33.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:29",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:31",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:34",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:36",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:38",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:40",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:42",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:44",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:47",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:49",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:51",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:53",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:55",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:53:57",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:00",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:02",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:04",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:06",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:08",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:10",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:13",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:15",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:17",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:19",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:21",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:23",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:26",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:28",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:30",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:32",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:34",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:36",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:38",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:41",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:43",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:45",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:47",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:49",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:51",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:54",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:56",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:54:58",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:00",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:02",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:05",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:07",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:09",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:11",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:13",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:15",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:17",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:20",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:22",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:24",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:26",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:28",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:30",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:33",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:35",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:37",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:39",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:41",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:43",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:47",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:50",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:53",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:55:56",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:00",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:03",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:06",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:09",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:13",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:16",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:19",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:22",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:26",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:29",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:32",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:35",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:39",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:42",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:45",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:49",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:53",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "31.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:56",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:56:59",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:02",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:06",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:09",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:12",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:15",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:19",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:22",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:25",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:28",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:32",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:35",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:38",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:42",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:46",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:49",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:52",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:55",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:57:59",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:02",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:05",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:08",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:12",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:15",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:18",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:21",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:25",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:28",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:32",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:35",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:39",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:42",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:45",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:48",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "29.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:52",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "29.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:55",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:58:58",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:01",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:05",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:08",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:11",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:15",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:19",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:22",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:25",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:28",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:32",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:35",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:38",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:41",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:45",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:48",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:51",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:54",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 11:59:56",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:00",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:03",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:06",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:09",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:13",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:16",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:19",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:22",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:27",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:30",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:33",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:36",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:40",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:43",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:46",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:49",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:53",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:56",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:00:59",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:03",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:06",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:09",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:11",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:13",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:15",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:18",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:20",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:22",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:24",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "30.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:26",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:28",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:31",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "32.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:33",
+    "temperature": "25.30 \u00b0C",
+    "humidity": "32.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:35",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:37",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:39",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "33.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:41",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "34.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:44",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "36.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:46",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "36.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:48",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "37.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:50",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "36.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:52",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "36.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:54",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "35.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:57",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "34.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:01:59",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "34.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:01",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "35.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:03",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "35.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:05",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "35.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:07",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "37.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:09",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "39.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:12",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "38.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:14",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "37.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:16",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "37.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:19",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "36.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:21",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "36.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:22",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "35.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:25",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "35.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:27",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "34.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:29",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "34.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:31",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "33.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:33",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "33.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:36",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "33.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:38",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:40",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:42",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:44",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:46",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:48",
+    "temperature": "25.00 \u00b0C",
+    "humidity": "32.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:51",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:53",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:55",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:57",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:02:59",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:01",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:04",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:06",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:08",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:10",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:12",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:15",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:17",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:19",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:21",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:23",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:25",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:27",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:30",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:32",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:34",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:36",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:38",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:40",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:43",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:45",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:47",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:49",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:51",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:54",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:56",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:03:58",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:00",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:02",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "31.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:04",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:07",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:08",
+    "temperature": "25.10 \u00b0C",
+    "humidity": "32.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:11",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:13",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:15",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:17",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:19",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:21",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:24",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "32.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:26",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:28",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:30",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:32",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:34",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:37",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:39",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "31.00 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:41",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.90 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:43",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:45",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.80 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:47",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:50",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:52",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:54",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:56",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:04:58",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:01",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:03",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:05",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.70 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:07",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:09",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:11",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:14",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:16",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:18",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:20",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:22",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:24",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:26",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:29",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.60 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:31",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:33",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:35",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:37",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:39",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:41",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:44",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:46",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:48",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:50",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:52",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:54",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:57",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:05:59",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:01",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:03",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:05",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:07",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:10",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.50 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:12",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:14",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:16",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:18",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:20",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:23",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:25",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:27",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:29",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:31",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:34",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:36",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:38",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:40",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:42",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:44",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:46",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:49",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:51",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:53",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:55",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:57",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:06:59",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:02",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:04",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:06",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:08",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:10",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:12",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:15",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:17",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:19",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:21",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:23",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:25",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:27",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:30",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:32",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:34",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:36",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:38",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:40",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:43",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:45",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 12:07:47",
+    "temperature": "25.20 \u00b0C",
+    "humidity": "30.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:06",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:08",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:11",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:13",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:15",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:17",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:19",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:21",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:23",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:26",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:28",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:30",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:32",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:34",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:36",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.40 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:39",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:41",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:43",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:45",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:47",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:49",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:52",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:54",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:56",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:01:58",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:00",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:02",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:05",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:07",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:09",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:11",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:13",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:15",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:18",
+    "temperature": "25.40 \u00b0C",
+    "humidity": "28.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:20",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:22",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:24",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:26",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:28",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:31",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:33",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:35",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:37",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:39",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:41",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:44",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:46",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:48",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:50",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:52",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:54",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:56",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:02:59",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:01",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:03",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:05",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.30 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:07",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:09",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:12",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:14",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:16",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:18",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:20",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:22",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:25",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:27",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:29",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:31",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:33",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:35",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:38",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:40",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:42",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:44",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:46",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:49",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:51",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:53",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:55",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:57",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:03:59",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:01",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:04",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:06",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:08",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:10",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:12",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:14",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:17",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:19",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.10 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:21",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:23",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:25",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:27",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  },
+  {
+    "timestamp": "2025-04-05 13:04:30",
+    "temperature": "25.50 \u00b0C",
+    "humidity": "28.20 %"
+  }
+]
